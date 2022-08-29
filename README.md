@@ -1,8 +1,8 @@
-# prog-web-portfolio
+# prog-web-cv
 
 # Sobre o projeto
 
- Portfolio é uma página construída com o objetivo de praticar o desenvolvimento web proposta pela disciplina de Programação Web do curso de Engenharia de Software do   Unidep.
+ Curriculo é uma página construída com o objetivo de praticar o desenvolvimento web proposta pela disciplina de Programação Web do curso de Engenharia de Software do   Unidep.
  
 ## Screenshot
 <img src="https://github.com/Joao3run/prog-web-portfolio/blob/main/assets/imgs/home_screen.png" alt="Home Screen">
