@@ -8,7 +8,6 @@
 <img src="https://github.com/Joao3run/prog-web-portfolio/blob/main/assets/imgs/home_screen.png" alt="Home Screen">
 
 # Como executar o projeto
-Pré-requisitos: SDK Flutter
 
 ```bash
 # clonar repositório
